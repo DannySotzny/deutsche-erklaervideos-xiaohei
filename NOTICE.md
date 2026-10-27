@@ -2,7 +2,7 @@
 
 Dieses Repository ist eine unabhängige deutsche Übersetzung und Erweiterung von [Ian Xiaohei Illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations), einem KI-Agenten-Skill von Ian. Die deutsche Fassung ergänzt einen Arbeitsablauf für deutschsprachige Erklärvideos und ein FFmpeg-basiertes Renderwerkzeug.
 
-Die unveränderten Beispielbilder in `xiaohei-erklaervideos/assets/examples/` stammen aus dem Originalprojekt und dienen ausschließlich der visuellen Stilkalibrierung. Sie enthalten teilweise chinesische Beschriftungen. Die wiederkehrende Figur „小黑“ (Xiaohei) gehört zu Ians visueller Sprache. Die abgeleitete Dokumentation behält den Projektnamen bzw. die Namensnennung bei.
+Die unveränderten Beispielbilder in `examples/images/` und `xiaohei-erklaervideos/assets/examples/` stammen aus dem Originalprojekt und dienen ausschließlich der visuellen Stilkalibrierung. Sie enthalten teilweise chinesische Beschriftungen. Die wiederkehrende Figur „小黑“ (Xiaohei) gehört zu Ians visueller Sprache. Die abgeleitete Dokumentation behält den Projektnamen bzw. die Namensnennung bei.
 
 - Originalprojekt: <https://github.com/helloianneo/ian-xiaohei-illustrations>
 - Autor: Ian
