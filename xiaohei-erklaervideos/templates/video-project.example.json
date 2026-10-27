@@ -1,0 +1,15 @@
+{
+  "language": "de",
+  "scenes": [
+    {
+      "image": "bilder/01-einstieg.png",
+      "audio": "audio/01-einstieg.wav",
+      "subtitle": "Jede Erklärung beginnt mit einer klaren Frage."
+    },
+    {
+      "image": "bilder/02-erklaerung.png",
+      "audio": "audio/02-erklaerung.wav",
+      "subtitle": "Ein Bild zeigt, wie die einzelnen Schritte zusammenhängen."
+    }
+  ]
+}

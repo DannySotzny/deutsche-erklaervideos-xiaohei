@@ -1,0 +1,6 @@
+interface:
+  display_name: "Xiaohei-Erklärvideos"
+  short_description: "Erstellt deutschsprachige Erklärvideos mit Skript, Szenenbildern und Untertiteln"
+  default_prompt: "Nutze $xiaohei-erklaervideos und erstelle aus diesem Thema ein verständliches deutsches Erklärvideo mit Sprechertext, Storyboard und Szenenbildern."
+policy:
+  allow_implicit_invocation: true
